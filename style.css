@@ -1,0 +1,39 @@
+.formBox
+{
+    text-align:center;
+
+}
+.inputBox
+{
+ width:30%;
+ height: 35px;
+ text-align: center;
+}
+.separator
+{
+    margin:20px;
+}
+.submitButton
+{
+    width:30%;
+    height: 35px;
+ 
+}
+.errorText
+{
+    color:red;
+    font-weight: bold;
+}
+.crudBtn
+{
+    width:5%;
+    height: 30px;
+    margin: 10px;
+    float: right;
+}
+.createdDiv
+{
+    margin: 20px;
+    height: 48px;   
+   border: 2px solid red;
+}
